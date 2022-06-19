@@ -8,8 +8,9 @@ html {
 /* adjust typography defaults */
 body {
   margin: 1rem;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Bebas Neue', sans-serif;
   line-height: 1.5;
+  background-image: url(/assets)
 }
 
 /* images and videos max out at full width */
