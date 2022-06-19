@@ -2,6 +2,7 @@
 html {
   box-sizing: border-box;
   font-size: 15px;
+  
 }
 
 
@@ -10,8 +11,12 @@ body {
   margin: 1rem;
   font-family: 'Bebas Neue', sans-serif;
   line-height: 1.5;
-  background-image: url(/assets)
+  background-image: url(https://cdn.glitch.global/6b3dea54-2620-44a3-a9f1-1db203314cd0/bobby-rahe-hJbRHIzTvto-unsplash.jpg?v=1655451834277);
+  text-align: center;
+  
 }
+
+
 
 /* images and videos max out at full width */
 
