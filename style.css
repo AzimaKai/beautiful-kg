@@ -12,11 +12,15 @@ body {
   font-family: 'Bebas Neue', sans-serif;
   line-height: 1.5;
   background-image: url(https://cdn.glitch.global/6b3dea54-2620-44a3-a9f1-1db203314cd0/bobby-rahe-hJbRHIzTvto-unsplash.jpg?v=1655451834277);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  
   text-align: center;
   
 }
 .main-section {
-  color: antiquewhite;
+  color: white;
 }
 
 
