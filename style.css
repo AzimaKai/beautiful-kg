@@ -23,7 +23,7 @@ ul {
 li a {
   margin-right: 40px;
   color: rgb(241, 255, 101);
-  font-size: 15px;
+  font-size: 10px;
 }
 li a:hover {
   background-color: rgb(160, 173, 49);
@@ -32,16 +32,18 @@ li a:hover {
 
 .container {
   display: inline-flex;
+  text-align: center;
+  color: rgb(2, 80, 64);
+  font-size: 13px;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  border: 1px solid rgb(247, 232, 232);
 }
 
 .card1 {
   width: 200px;
   height: 250px;
-  background-image: url();
+  background-image: url(https://cdn.glitch.global/6b3dea54-2620-44a3-a9f1-1db203314cd0/bobby-rahe-hJbRHIzTvto-unsplash.jpg?v=1655451834277);
   background-position: center;
   background-size: cover;
   transition: ease-in-out 1s;
@@ -54,7 +56,7 @@ li a:hover {
 .card2 {
   width: 200px;
   height: 250px;
-  background-image: url();
+  background-image: url(https://cdn.glitch.global/6b3dea54-2620-44a3-a9f1-1db203314cd0/dastan-suiuntbekov-oY7KDU6QohU-unsplash.jpg?v=1655451840054);
   background-position: center;
   background-size: cover;
   transition: width 2s;
@@ -67,7 +69,7 @@ li a:hover {
 .card3 {
   width: 200px;
   height: 250px;
-  background-image: url();
+  background-image: url(https://cdn.glitch.global/6b3dea54-2620-44a3-a9f1-1db203314cd0/dastan-suiuntbekov-6Zj6sY19dow-unsplash.jpg?v=1655451904636);
   background-position: center;
   background-size: cover;
   transition: width 2s;
