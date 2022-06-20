@@ -5,7 +5,7 @@ body {
   font-family: 'Tiro Devanagari Sanskrit', serif;
   font-size: 10px;
   line-height: 1.5;
-  background-image: url(images/bobby-rahe-hJbRHIzTvto-unsplash.jpg) ;
+  background-image: url(https://cdn.glitch.global/6b3dea54-2620-44a3-a9f1-1db203314cd0/bobby-rahe-gkf1w-Y_Ub0-unsplash.jpg?v=1655451818598) ;
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -23,7 +23,7 @@ ul {
 }
 
 li a {
-  margin-right: 40px;
+  margin-right: 100px;
   color: rgb(197, 178, 9);
 }
  
