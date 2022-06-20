@@ -5,11 +5,10 @@ html {
 body {
   font-family: "Tiro Devanagari Sanskrit", serif;
   line-height: 1.5;
-  background-image: url(https://cdn.glitch.global/6b3dea54-2620-44a3-a9f1-1db203314cd0/bobby-rahe-gkf1w-Y_Ub0-unsplash.jpg?v=1655451818598);
   background-position: center;
-  background-size: 200%;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-color: aquamarine;
+  background-image: url(https://cdn.glitch.global/6b3dea54-2620-44a3-a9f1-1db203314cd0/bobby-rahe-gkf1w-Y_Ub0-unsplash.jpg?v=1655451818598);
 }
 /*navbar style*/
 .nav-section {
@@ -32,5 +31,48 @@ li a:hover {
 /*main style*/
 
 .container {
-  
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  border: 1px solid rgb(247, 232, 232);
+}
+
+.card1 {
+  width: 200px;
+  height: 250px;
+  background-image: url();
+  background-position: center;
+  background-size: cover;
+  transition: ease-in-out 1s;
+}
+
+.card1:hover {
+  width: 300px;
+}
+
+.card2 {
+  width: 200px;
+  height: 250px;
+  background-image: url();
+  background-position: center;
+  background-size: cover;
+  transition: width 2s;
+}
+
+.card2:hover {
+  width: 300px;
+}
+
+.card3 {
+  width: 200px;
+  height: 250px;
+  background-image: url();
+  background-position: center;
+  background-size: cover;
+  transition: width 2s;
+}
+
+.card3:hover {
+  width: 300px;
 }
