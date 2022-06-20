@@ -21,11 +21,11 @@ ul {
 
 li a {
   margin-right: 40px;
-  color: whitesmoke;
+  color: rgb(241, 255, 101);
   font-size: 15px;
 }
 li a:hover {
-  background-color: black
+  background-color: rgb(160, 173, 49);
 }
 /*main style*/
 .main-section {
