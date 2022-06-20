@@ -3,6 +3,8 @@ html {
 }
 /*body style*/
 body {
+  align-items: center;
+  justify-content: center;
   font-family: "Tiro Devanagari Sanskrit", serif;
   line-height: 1.5;
   background-position: center;
@@ -31,12 +33,12 @@ li a:hover {
 /*main style*/
 
 .container {
+  padiing-top: 200px;
   display: inline-flex;
   text-align: center;
   color: rgb(2, 80, 64);
   font-size: 13px;
-  justify-content: center;
-  align-items: center;
+  margin: 0 auto;
   flex-wrap: wrap;
 }
 
