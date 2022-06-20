@@ -21,8 +21,13 @@ ul {
 
 li a {
   margin-right: 40px;
-  color: rgb(255, 208, 0);
+  color: rgb(131, 70, );
   font-size: 15px;
+  font-weight: bold;
+}
+li a:hover {
+  background-color: aquamarine;
+  
 }
  .main-section {
    font-size: 13px;
