@@ -21,12 +21,12 @@ ul {
 
 li a {
   margin-right: 40px;
-  color: rgb(131, 70, );
+  color: rgb(100, 49, 33);
   font-size: 15px;
-  font-weight: bold;
+  
 }
 li a:hover {
-  background-color: aquamarine;
+  background-color: rgb(180, 165, 148);
   
 }
  .main-section {
