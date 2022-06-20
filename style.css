@@ -1,25 +1,28 @@
 /*body style*/
 body {
-  
   padding: 0%;
   font-family: "Tiro Devanagari Sanskrit", serif;
   line-height: 1.5;
   background-image: url(https://cdn.glitch.global/6b3dea54-2620-44a3-a9f1-1db203314cd0/bobby-rahe-gkf1w-Y_Ub0-unsplash.jpg?v=1655451818598);
   background-position: center;
   background-size: 100%;
-  background-repeat: repeat-y;
+  background-repeat: no-repeat;
   background-color: aquamarine;
 }
 /*navbar style*/
 .nav-section {
-  text-align: end;
+  text-align: center;
+  backdrop-filter: blur(3px);
+  
 }
 ul {
+  
   list-style-type: none;
   display: inline-flex;
 }
 
 li a {
+  
   margin-right: 40px;
   color: rgb(241, 255, 101);
   font-size: 15px;
@@ -30,7 +33,5 @@ li a:hover {
 /*main style*/
 .main-section {
   font-size: 13px;
-  backdrop-filter: blur(3px);
   color: rgb(196, 245, 241);
-  
 }
